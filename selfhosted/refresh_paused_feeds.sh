@@ -41,7 +41,7 @@ see $REPO_ROOT/$LOG_FILE" || log "WARNING: telegram notification failed"
 
 log "refresh: start"
 
-git fetch --quiet upstream origin >>"$LOG_FILE" 2>&1 || fail_and_exit "git fetch"
+git fetch --quiet --multiple upstream origin>>"$LOG_FILE" 2>&1 || fail_and_exit "git fetch"
 git checkout --quiet main >>"$LOG_FILE" 2>&1 || fail_and_exit "git checkout main"
 git merge --quiet --ff-only origin/main >>"$LOG_FILE" 2>&1 || fail_and_exit "fast-forward to origin/main"
 git merge --quiet --no-edit -X theirs upstream/main >>"$LOG_FILE" 2>&1 || fail_and_exit "merge upstream/main"
