@@ -23,6 +23,8 @@ PAUSED_GENERATORS=(
 )
 NOTIFY_CMD="${NOTIFY_CMD:-$HOME/.claude/skills/send-telegram-message/scripts/send_telegram.sh}"
 UV="${UV:-$HOME/.local/bin/uv}"
+# undetected_chromedriver imports distutils, which Python 3.12+ no longer ships.
+export UV_PYTHON="${UV_PYTHON:-3.11}"
 LOG_DIR="selfhosted/logs"
 mkdir -p "$LOG_DIR"
 LOG_FILE="$LOG_DIR/refresh-$(date +%F).log"
