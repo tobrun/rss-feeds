@@ -1,10 +1,10 @@
 # systemd user service: triggered by OnFailure= of rss-paused-feeds.service. Sends a
-# Telegram message when the unit itself failed (timeout or crash); the script reports its
-# own failures.
+# Telegram message only when the unit timed out or crashed. A plain non-zero exit
+# (MONITOR_SERVICE_RESULT=exit-code) is skipped because the script already reported it.
 
 [Unit]
 Description=rss-feeds: notify that the paused-feed refresh unit failed
 
 [Service]
 Type=oneshot
-ExecStart=/bin/bash -c '"$HOME/.claude/skills/send-telegram-message/scripts/send_telegram.sh" "rss-paused-feeds unit failed (timeout or crash); see journalctl --user -u rss-paused-feeds.service"'
+ExecStart=/bin/bash -c '[ "$MONITOR_SERVICE_RESULT" = exit-code ] || "$HOME/.claude/skills/send-telegram-message/scripts/send_telegram.sh" "rss-paused-feeds unit failed ($MONITOR_SERVICE_RESULT); see journalctl --user -u rss-paused-feeds.service"'
