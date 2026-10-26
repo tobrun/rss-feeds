@@ -8,7 +8,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 19:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:13:43 +0000</lastBuildDate>
+    <item>
+      <title>Meta’s Muse Wonder and Spark Open, Educational Use of ChatGPT, Reflection's Partnership with Nvidia</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-376</link>
+      <description>The Batch News &amp; Insights: What should an engineering leader such as a VP Engineering or an Engineering manager do to help their team become more proficient in AI?</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-376</guid>
+      <category>The Batch Newsletter</category>
+      <category>issue-376</category>
+      <category>Oct 23, 2026</category>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5, Mistral Large 4, and Local Models for Mac and Windows</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-375</link>
+      <description>The Batch News &amp; Insights: The gulf between LLM performance on verifiable tasks vs. unverifiable tasks that require judgement is larger than most people realize.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-375</guid>
+      <category>The Batch Newsletter</category>
+      <category>issue-375</category>
+      <category>Oct 16, 2026</category>
+      <pubDate>Fri, 16 Oct 2026 14:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI’s DevDay, Google’s First Gemini 4 Model, Black Forest Labs Dives Into Robots</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-374</link>
+      <description>The Batch News &amp; Insights: I think most people still underestimate the data center build-outs that will be required to meet demand.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-374</guid>
+      <category>The Batch Newsletter</category>
+      <category>Oct 09, 2026</category>
+      <category>issue-374</category>
+      <pubDate>Fri, 09 Oct 2026 14:00:25 +0000</pubDate>
+    </item>
     <item>
       <title>The Next Top Open Model, Google Voice Agents, DeepSeek Shrinks Caches: Plus a letter on open weight cybersecurity capabilities</title>
       <link>https://www.deeplearning.ai/the-batch/issue-373</link>
