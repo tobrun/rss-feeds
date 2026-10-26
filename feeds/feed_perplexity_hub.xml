@@ -13,7 +13,143 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:17:25 +0000</lastBuildDate>
+    <item>
+      <title>How to evaluate AI agents: test sets, graders, and regression checks</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-agent-evaluation</link>
+      <description>How to evaluate AI agents: test sets, graders, and regression checks</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-agent-evaluation</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to track and control team token spend</title>
+      <link>https://www.perplexity.ai/hub/blog/token-spend</link>
+      <description>How to track and control team token spend</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/token-spend</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A good teacher meets the student where they are</title>
+      <link>https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are</link>
+      <description>A good teacher meets the student where they are</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Computer now runs fully local on Mac</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac</link>
+      <description>Perplexity Computer now runs fully local on Mac</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Perplexity brings Computer to enterprise infrastructure with Valarian</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian</link>
+      <description>Perplexity brings Computer to enterprise infrastructure with Valarian</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-brings-computer-to-enterprise-infrastructure-with-valarian</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-gateway</link>
+      <description>What Is an AI Gateway? A Guide to Routing, Cost Control, and Governance for LLM and Agent Traffic</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-gateway</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harness engineering: what it is and how it works</title>
+      <link>https://www.perplexity.ai/hub/blog/harness-engineering</link>
+      <description>Harness engineering: what it is and how it works</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/harness-engineering</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What is LLM security? How to mitigate the OWASP top 10 safety risks</title>
+      <link>https://www.perplexity.ai/hub/blog/llm-security</link>
+      <description>What is LLM security? How to mitigate the OWASP top 10 safety risks</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/llm-security</guid>
+      <category>Blog</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open-sourcing SPACE, the sandbox platform behind Computer</title>
+      <link>https://www.perplexity.ai/hub/blog/open-sourcing-space</link>
+      <description>Open-sourcing SPACE, the sandbox platform behind Computer</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/open-sourcing-space</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to use AI for studying: 5 methods that work</title>
+      <link>https://www.perplexity.ai/hub/blog/how-to-use-ai-for-studying</link>
+      <description>How to use AI for studying: 5 methods that work</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/how-to-use-ai-for-studying</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Research: Major Papers and Top Tools for Researchers (+ Best Practices)</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-research</link>
+      <description>AI Research: Major Papers and Top Tools for Researchers (+ Best Practices)</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-research</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Are MCP Tools and How Do AI Models Use Them?</title>
+      <link>https://www.perplexity.ai/hub/blog/mcp-tools</link>
+      <description>What Are MCP Tools and How Do AI Models Use Them?</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/mcp-tools</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How SPACE routes requests to the right sandbox execution</title>
+      <link>https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</link>
+      <description>How SPACE routes requests to the right sandbox execution</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/how-space-routes-requests-to-the-right-sandbox-execution</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI costs: what teams pay to use AI tools</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-costs</link>
+      <description>AI costs: what teams pay to use AI tools</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-costs</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building shared workspaces for people and agents</title>
+      <link>https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</link>
+      <description>Building shared workspaces for people and agents</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Agent vs MCP? When To Use Each (&amp; When You Need Both)</title>
+      <link>https://www.perplexity.ai/hub/blog/agent-vs-mcp</link>
+      <description>AI Agent vs MCP? When To Use Each (&amp; When You Need Both)</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/agent-vs-mcp</guid>
+      <category>Blog</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI guardrails: What they are and seven practical examples</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-guardrails</link>
+      <description>AI guardrails: What they are and seven practical examples</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-guardrails</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>RAG vs. LLM: Technical Breakdown (Definitions, Differences, Use Cases)</title>
       <link>https://www.perplexity.ai/hub/blog/rag-vs-llm</link>
