@@ -1,0 +1,21 @@
+# systemd user service: regenerates the feeds upstream paused and pushes them to the fork.
+# Fired by rss-paused-feeds.timer; see selfhosted/refresh_paused_feeds.sh. A timeout or
+# crash of the script itself is reported by rss-paused-feeds-failed.service.
+#
+# Install:
+#   cp selfhosted/rss-paused-feeds*.service selfhosted/rss-paused-feeds.timer ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now rss-paused-feeds.timer
+#
+# (to run once now)   systemctl --user start rss-paused-feeds.service
+# (to inspect)        systemctl --user list-timers rss-paused-feeds.timer
+# (to disable)        systemctl --user disable --now rss-paused-feeds.timer
+
+[Unit]
+Description=rss-feeds: regenerate paused feeds and push to the fork
+OnFailure=rss-paused-feeds-failed.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/nurbot/ws/rss-feeds-fork
+ExecStart=/bin/bash /home/nurbot/ws/rss-feeds-fork/selfhosted/refresh_paused_feeds.sh
+TimeoutStartSec=45min

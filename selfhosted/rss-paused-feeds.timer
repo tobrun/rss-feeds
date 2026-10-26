@@ -1,0 +1,13 @@
+# systemd user timer: fires rss-paused-feeds.service every 6 hours at 05:30, 11:30, 17:30
+# and 23:30 local time, half an hour before each blog-watcher collector run.
+
+[Unit]
+Description=rss-feeds paused-feed refresh every 6 hours
+
+[Timer]
+OnCalendar=*-*-* 05/6:30:00
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target
