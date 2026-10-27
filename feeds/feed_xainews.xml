@@ -8,7 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:32:13 +0000</lastBuildDate>
+    <item>
+      <title>Your next sales teammate should be a Grok Bot</title>
+      <link>https://x.ai/news/grok-bot-sales</link>
+      <description>Your next sales teammate should be a Grok Bot</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-bot-sales</guid>
+      <category>News</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing the SpaceX Super Intelligence Partner Network</title>
       <link>https://x.ai/news/partnernetworkannouncement</link>
@@ -44,7 +52,7 @@
     <item>
       <title>Team Bots: shared AI teammates that learn as they work</title>
       <link>https://x.ai/news/team-bots</link>
-      <description>Team Bots: shared AI teammates that learn as they work</description>
+      <description>Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.</description>
       <guid isPermaLink="false">https://x.ai/news/team-bots</guid>
       <category>News</category>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>

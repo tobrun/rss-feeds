@@ -13,7 +13,15 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:31:46 +0000</lastBuildDate>
+    <item>
+      <title>How does an LLM gateway work? A practical guide for engineering teams</title>
+      <link>https://www.perplexity.ai/hub/blog/llm-gateway</link>
+      <description>How does an LLM gateway work? A practical guide for engineering teams</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/llm-gateway</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>What Is RAG Architecture? A Full Definition With Detailed Practical Examples</title>
       <link>https://www.perplexity.ai/hub/blog/rag-architecture</link>
