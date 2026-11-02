@@ -13,7 +13,15 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:32:58 +0000</lastBuildDate>
+    <item>
+      <title>AI agent memory: How to build AI agents with persistent context</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-agent-memory</link>
+      <description>AI agent memory: How to build AI agents with persistent context</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-agent-memory</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Knowledge Talk</title>
       <link>https://www.perplexity.ai/hub/blog/the-knowledge-talk</link>
