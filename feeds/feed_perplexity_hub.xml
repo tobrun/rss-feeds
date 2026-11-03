@@ -13,7 +13,15 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:10:25 +0000</lastBuildDate>
+    <item>
+      <title>BrowseSafe++: Building stronger defenses against real-world prompt injection</title>
+      <link>https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</link>
+      <description>BrowseSafe++: Building stronger defenses against real-world prompt injection</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/browsesafe-plus-plus</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI agent memory: How to build AI agents with persistent context</title>
       <link>https://www.perplexity.ai/hub/blog/ai-agent-memory</link>
