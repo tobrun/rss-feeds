@@ -13,12 +13,28 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:31:30 +0000</lastBuildDate>
+    <item>
+      <title>AI agent orchestration best practices: handling failures, approvals, and retries</title>
+      <link>https://www.perplexity.ai/hub/blog/ai-agent-orchestration</link>
+      <description>AI agent orchestration best practices: handling failures, approvals, and retries</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/ai-agent-orchestration</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Web grounding for the Decisions API</title>
       <link>https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</link>
       <description>Web grounding for the Decisions API</description>
       <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teammates are agents for complex, ongoing work</title>
+      <link>https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+      <description>Teammates are agents for complex, ongoing work</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</guid>
       <category>Blog</category>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
     </item>
