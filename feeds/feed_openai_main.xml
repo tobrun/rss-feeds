@@ -8,7 +8,133 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 20:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:08:16 +0000</lastBuildDate>
+    <item>
+      <title>Gilbert + Tobin rethinks the business of law with AI</title>
+      <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+      <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
+      <guid isPermaLink="false">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-plus-for-veterans</guid>
+      <category>Company</category>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.</description>
+      <guid isPermaLink="false">https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Helping caregivers use AI in everyday life</title>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.</description>
+      <guid isPermaLink="false">https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Businesses in ChatGPT</title>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-businesses-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Closing the AI guidance gap in education</title>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
+      <guid isPermaLink="false">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
+      <link>https://openai.com/index/singapore-airlines-travel-work</link>
+      <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.</description>
+      <guid isPermaLink="false">https://openai.com/index/singapore-airlines-travel-work</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Work at the Frontier: AI’s effect on freelance work</title>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
+      <guid isPermaLink="false">https://openai.com/index/ai-effect-on-freelance-work</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cogent and OpenAI build cyber defense factories for enterprises</title>
+      <link>https://openai.com/index/cogent-security</link>
+      <description>Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.</description>
+      <guid isPermaLink="false">https://openai.com/index/cogent-security</guid>
+      <category>Startup</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pushing voice agents further: inside four GPT-Live builds</title>
+      <link>https://developers.openai.com/blog/pushing-voice-agents-further</link>
+      <description>A startup showcase on how teams delegate work, prompt for voice, and evaluate what happens in real conversations.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/pushing-voice-agents-further</guid>
+      <category>Developer</category>
+      <category>Audio</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+      <category>Product</category>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Control Room: Human control over AI workloads</title>
+      <link>https://openai.com/index/introducing-control-room</link>
+      <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-control-room</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+      <link>https://openai.com/index/control-room</link>
+      <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</description>
+      <guid isPermaLink="false">https://openai.com/index/control-room</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kuken Industries searches 70 years of drawings in minutes</title>
+      <link>https://openai.com/index/kuken</link>
+      <description>Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.</description>
+      <guid isPermaLink="false">https://openai.com/index/kuken</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CodeRabbit scales agentic software development and ships 20x more</title>
+      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
+      <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.</description>
+      <guid isPermaLink="false">https://openai.com/index/coderabbit-codex-daybreak</guid>
+      <category>Startup</category>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building a retro handheld game with Codex and ModRetro Chromatic</title>
+      <link>https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</link>
+      <description>Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</guid>
+      <category>Developer</category>
+      <category>Codex</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
       <link>https://openai.com/index/partnering-with-hacktron</link>
@@ -4566,6 +4692,14 @@
     </item>
     <item>
       <title>How OpenAI Uses Codex to Accelerate Engineering</title>
+      <link>https://openai.com/business/learn/how-openai-uses-codex</link>
+      <description>A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/how-openai-uses-codex</guid>
+      <category>Guides</category>
+      <pubDate>Wed, 14 Jan 2026 21:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How OpenAI Uses Codex to Accelerate Engineering</title>
       <link>https://openai.com/business/guides-and-resources/how-openai-uses-codex</link>
       <description>A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.</description>
       <guid isPermaLink="false">https://openai.com/business/guides-and-resources/how-openai-uses-codex</guid>
@@ -6018,6 +6152,13 @@
       <pubDate>Thu, 21 Aug 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Blue J’s approach for scaling fast in complex, regulated domains</title>
+      <link>https://openai.com/business/customer-stories/blue-j</link>
+      <description>Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.</description>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/blue-j</guid>
+      <pubDate>Thu, 21 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Mixi reimagines communication with ChatGPT</title>
       <link>https://openai.com/index/mixi</link>
       <description>Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment for innovation.</description>
@@ -6741,6 +6882,14 @@
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>New in ChatGPT for Business: April 2025</title>
+      <link>https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025</link>
+      <description>Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025</guid>
+      <category>Webinar</category>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Introducing our latest image generation model in the API</title>
       <link>https://openai.com/index/image-generation-api</link>
       <description>Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and platforms.</description>
@@ -7012,6 +7161,14 @@
       <link>https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025</link>
       <description>Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.</description>
       <guid isPermaLink="false">https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025</guid>
+      <category>Webinar</category>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New in ChatGPT for Business: March 2025</title>
+      <link>https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025</link>
+      <description>Join us as we share our latest releases and how ChatGPT is becoming more interactive, customized to the way your teams work, and agentic.</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025</guid>
       <category>Webinar</category>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
     </item>
@@ -7945,12 +8102,28 @@ Introducing our new alignment strategy for o1 models, which are directly taught 
       <pubDate>Thu, 05 Sep 2024 08:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Using GPT-4 to deliver a new customer service standard</title>
+      <link>https://openai.com/business/customer-stories/ada</link>
+      <description>Ada uses GPT-4 to deliver a new customer service standard</description>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/ada</guid>
+      <category>Story</category>
+      <pubDate>Thu, 05 Sep 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Personalizing education with ChatGPT</title>
       <link>https://openai.com/index/asu</link>
       <description>Arizona State University embraces ChatGPT campus-wide to personalize learning, advance research, and prepare students for the future</description>
       <guid isPermaLink="false">https://openai.com/index/asu</guid>
       <category>Story</category>
       <pubDate>Mon, 26 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-tuning GPT-4o webinar</title>
+      <link>https://openai.com/business/learn/fine-tuning-gpt-4o-webinar</link>
+      <description>Fine-Tuning GPT-4o Webinar</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/fine-tuning-gpt-4o-webinar</guid>
+      <category>Webinar</category>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Fine-tuning GPT-4o webinar</title>
@@ -8031,6 +8204,14 @@ We’re strengthening our governance with expertise in AI safety and alignment. 
       <description>GPT-4o System Card</description>
       <guid isPermaLink="false">https://openai.com/index/gpt-4o-system-card</guid>
       <category>Safety &amp; Alignment</category>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enabling a data-driven workforce</title>
+      <link>https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar</link>
+      <description>In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar</guid>
+      <category>Webinar</category>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
     </item>
     <item>

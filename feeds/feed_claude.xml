@@ -8,7 +8,79 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:02:43 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Claude Whiteboards, Claude Sheets, and Claude Data</title>
+      <link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+      <description>Now you can brainstorm on whiteboards, build sheets, and share data directly in Claude.</description>
+      <guid isPermaLink="false">https://claude.com/blog/sheets-whiteboards-data</guid>
+      <category>Product updates</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors</title>
+      <link>https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</link>
+      <description>Work at the speed of thought</description>
+      <guid isPermaLink="false">https://claude.com/blog/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors</guid>
+      <category>Product updates</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your apps can now open in Claude, and Claude can work in them</title>
+      <link>https://claude.com/resources/articles/interactive-connectors-full-tool</link>
+      <description>Our partners can now embed their apps directly in Claude, so you and Claude can work in the same tool, on the same screen, without switching tabs.</description>
+      <guid isPermaLink="false">https://claude.com/blog/interactive-connectors-full-tool</guid>
+      <category>Product updates</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Curative is building a national provider network with agents on Claude</title>
+      <link>https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude</link>
+      <description>Curative’s deal-making agent negotiates 2,000+ provider contracts a week.</description>
+      <guid isPermaLink="false">https://claude.com/blog/how-curative-is-building-a-national-provider-network-with-agents-on-claude</guid>
+      <category>Best practices</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude can design electronic prototypes from start to finish</title>
+      <link>https://www.anthropic.com/research/claude-electronics-design</link>
+      <description>We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-electronics-design</guid>
+      <category>Insights</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 and Mythos 5.2</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <description>Introducing Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges.</description>
+      <guid isPermaLink="false">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+      <category>Product updates</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which Claude model should you build with?</title>
+      <link>https://claude.dev/blog/which-claude-model-should-you-build-with/</link>
+      <description>How to choose between Claude Fable 5.2, Opus 5.5, Sonnet 5.5, and Haiku 5.5 by task, cost, and effort level.</description>
+      <guid isPermaLink="false">https://claude.dev/blog/which-claude-model-should-you-build-with/</guid>
+      <category>Best practices</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Safely scaling multi-agent teams with Claude Fable 5.2</title>
+      <link>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</link>
+      <description>How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls.</description>
+      <guid isPermaLink="false">https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</guid>
+      <category>Best practices</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JPMorganChase expands Claude Code to more employees across the firm</title>
+      <link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
+      <description>JPMorganChase expands Claude Code to more employees across the firm</description>
+      <guid isPermaLink="false">https://claude.com/blog/jpmorganchase-expands-claude-code</guid>
+      <category>Enterprise announcements</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The components of agent memory</title>
       <link>https://www.anthropic.com/research/components-of-agent-memory</link>
