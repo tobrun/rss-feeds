@@ -13,7 +13,23 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:34:47 +0000</lastBuildDate>
+    <item>
+      <title>Perplexity Decider</title>
+      <link>https://www.perplexity.ai/hub/blog/perplexity-decider</link>
+      <description>Perplexity Decider</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/perplexity-decider</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context window: what it is and how it affects everyday AI use</title>
+      <link>https://www.perplexity.ai/hub/blog/context-window</link>
+      <description>Context window: what it is and how it affects everyday AI use</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/context-window</guid>
+      <category>Blog</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Escaping SPACE: Part II</title>
       <link>https://www.perplexity.ai/hub/blog/escaping-space-part-ii</link>
