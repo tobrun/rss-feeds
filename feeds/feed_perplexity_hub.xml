@@ -13,12 +13,28 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:35:29 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Perplexity’s Monitor API</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api</link>
+      <description>Introducing Perplexity’s Monitor API</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Perplexity Frontier Research</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</link>
       <description>Introducing Perplexity Frontier Research</description>
       <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/introducing-perplexity-frontier-research</guid>
+      <category>Blog</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AGI vs. AI: Key differences and how to evaluate AGI claims</title>
+      <link>https://www.perplexity.ai/hub/blog/agi-vs-ai</link>
+      <description>AGI vs. AI: Key differences and how to evaluate AGI claims</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/agi-vs-ai</guid>
       <category>Blog</category>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
