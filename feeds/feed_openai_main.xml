@@ -8,7 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:03:11 +0000</lastBuildDate>
+    <item>
+      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <description>New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.</description>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-online-child-safety</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <category>Research</category>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Science at the Frontier: How scientists use ChatGPT</title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.</description>
+      <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier</guid>
+      <category>Research</category>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
       <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -16,6 +40,14 @@
       <guid isPermaLink="false">https://openai.com/index/lvmh-media-division-partnership</guid>
       <category>Company</category>
       <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our first phase of embedded assessments</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <description>OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.</description>
+      <guid isPermaLink="false">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
       <title>More ways to move care forward with ChatGPT for Healthcare</title>
@@ -39,6 +71,13 @@
       <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.</description>
       <guid isPermaLink="false">https://openai.com/index/the-kings-trust-and-openai</guid>
       <category>Global Affairs</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>At Holiday Extras, dots get to work before anyone asks</title>
+      <link>https://openai.com/business/customer-stories/holiday-extras-dots</link>
+      <description>Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.</description>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/holiday-extras-dots</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
