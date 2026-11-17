@@ -13,7 +13,39 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:33:29 +0000</lastBuildDate>
+    <item>
+      <title>Retrieval-Augmented Generation (RAG): Definition, Use Cases, and Practical Examples</title>
+      <link>https://www.perplexity.ai/hub/blog/rag</link>
+      <description>Retrieval-Augmented Generation (RAG): Definition, Use Cases, and Practical Examples</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/rag</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orchestrator: One API for reliable inference</title>
+      <link>https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</link>
+      <description>Orchestrator: One API for reliable inference</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/orchestrator-one-api-for-reliable-inference</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Orchestrator: One API for frontier and open-weight models</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-orchestrator</link>
+      <description>Introducing Orchestrator: One API for frontier and open-weight models</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/introducing-orchestrator</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Multiagent for the most complex work</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
+      <description>Introducing Multiagent for the most complex work</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Perplexity’s Monitor API</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-perplexitys-monitor-api</link>

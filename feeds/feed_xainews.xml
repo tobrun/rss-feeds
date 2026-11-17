@@ -8,14 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:33:57 +0000</lastBuildDate>
+    <item>
+      <title>Building an accounting team with Grok Bot</title>
+      <link>https://x.ai/news/grok-bot-accounting</link>
+      <description>Building an accounting team with Grok Bot</description>
+      <guid isPermaLink="false">https://x.ai/news/grok-bot-accounting</guid>
+      <category>News</category>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Introducing Grok Bot 1.0</title>
       <link>https://x.ai/news/grok-bot-1-0</link>
-      <description>Nov 2, 2026</description>
+      <description>Nov 11, 2026</description>
       <guid isPermaLink="false">https://x.ai/news/grok-bot-1-0</guid>
       <category>News</category>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Giving every team a data scientist with Grok Bot</title>
@@ -44,7 +52,7 @@
     <item>
       <title>Using Grok Bot to detect and respond to incidents</title>
       <link>https://x.ai/news/incident-sweep</link>
-      <description>Using Grok Bot to detect and respond to incidents</description>
+      <description>IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.</description>
       <guid isPermaLink="false">https://x.ai/news/incident-sweep</guid>
       <category>News</category>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
