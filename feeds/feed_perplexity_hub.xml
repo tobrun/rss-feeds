@@ -13,7 +13,23 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:36:12 +0000</lastBuildDate>
+    <item>
+      <title>Self-improving skills</title>
+      <link>https://www.perplexity.ai/hub/blog/self-improving-skills</link>
+      <description>Self-improving skills</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/self-improving-skills</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context rot in AI agents: why long tasks lose accuracy and how to prevent it</title>
+      <link>https://www.perplexity.ai/hub/blog/context-rot</link>
+      <description>Context rot in AI agents: why long tasks lose accuracy and how to prevent it</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/context-rot</guid>
+      <category>Blog</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Retrieval-Augmented Generation (RAG): Definition, Use Cases, and Practical Examples</title>
       <link>https://www.perplexity.ai/hub/blog/rag</link>
