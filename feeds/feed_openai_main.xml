@@ -8,13 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:03:03 +0000</lastBuildDate>
+    <item>
+      <title>The Silent Consensus</title>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</description>
+      <guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
+      <category>Intelligence Age</category>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside the Codex sandbox</title>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <description>See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.</description>
+      <guid isPermaLink="false">https://openai.com/index/inside-the-codex-sandbox</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Managing frontier AI risk: From training to deployment</title>
+      <link>https://openai.com/index/managing-frontier-ai-risk</link>
+      <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.</description>
+      <guid isPermaLink="false">https://openai.com/index/managing-frontier-ai-risk</guid>
+      <category>Safety</category>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
       <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
       <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.</description>
       <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
       <category>Company</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.</description>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <category>Research</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
