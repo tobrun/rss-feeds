@@ -13,7 +13,7 @@
       <link>https://www.perplexity.ai/hub/blog</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:32:12 +0000</lastBuildDate>
     <item>
       <title>Retrieval-Augmented Generation (RAG): Definition, Use Cases, and Practical Examples</title>
       <link>https://www.perplexity.ai/hub/blog/rag</link>
@@ -43,6 +43,14 @@
       <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
       <description>Introducing Multiagent for the most complex work</description>
       <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
+      <category>Blog</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Context API extracts full context from any web page</title>
+      <link>https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</link>
+      <description>Context API extracts full context from any web page</description>
+      <guid isPermaLink="false">https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page</guid>
       <category>Blog</category>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
