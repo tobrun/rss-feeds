@@ -8,7 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:03:05 +0000</lastBuildDate>
+    <item>
+      <title>Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs</title>
+      <link>https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Ai-1-meta_4.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.</description>
+      <guid isPermaLink="false">https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/</guid>
+      <category>AI</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText</title>
+      <link>https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Dilco_header.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60× and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.</description>
+      <guid isPermaLink="false">https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/</guid>
+      <category>AI</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gemini 4 Hydrogen: a faster model for general purpose robotics</title>
       <link>https://developers.googleblog.com/gemini-hydrogen-for-robotics/</link>
@@ -66,28 +82,12 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Agent Anomaly Detection scores on benchmarks we didn't write</title>
-      <link>https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner_-_1600x900.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside semantic governance and strict tool limits as part of a defense-in-depth strategy to secure agentic applications.</description>
-      <guid isPermaLink="false">https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/</guid>
-      <category>AI</category>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Catch Go bugs that fuzzing misses with Gemini and a constraint solver</title>
       <link>https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/</link>
       <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/title-image.2e16d0ba.fill-800x400.png" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;How pairing Go's surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz.</description>
       <guid isPermaLink="false">https://developers.googleblog.com/catch-go-bugs-that-fuzzing-misses-with-gemini-and-a-constraint-solver/</guid>
       <category>AI</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A2UI 1.0: Build delightful, fast, reliable, agentic experiences</title>
-      <link>https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r4.2e16d0ba.fill-800x400.jpg" alt="Featured image" /&gt;&lt;br/&gt;&lt;br/&gt;A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI into their product stacks.</description>
-      <guid isPermaLink="false">https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/</guid>
-      <category>Mobile</category>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
