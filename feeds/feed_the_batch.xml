@@ -8,7 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:32:56 +0000</lastBuildDate>
+    <item>
+      <title>Jensen Huang’s Nvidia legacy, Claude Fable 5.2 and Anthropic’s IPO, World Labs Releases Atlas to Developers</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-380</link>
+      <description>The Batch News &amp; Insights: I was saddened to hear about Jensen Huang resigning from Nvidia last week. Yes, Jensen made serious mistakes.</description>
+      <guid isPermaLink="false">https://www.deeplearning.ai/the-batch/issue-380</guid>
+      <category>The Batch Newsletter</category>
+      <category>issue-380</category>
+      <category>Nov 20, 2026</category>
+      <pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>GPT-6 Cyber Versus Linux, The Problem With LLM-Powered Search, LLMs Edit Model Weights, Agentic Doc Retrieval</title>
       <link>https://www.deeplearning.ai/the-batch/issue-379</link>
