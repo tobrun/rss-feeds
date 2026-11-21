@@ -8,7 +8,47 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:03:03 +0000</lastBuildDate>
+    <item>
+      <title>Combatting adversarial distillation</title>
+      <link>https://openai.com/index/combatting-adversarial-distillation</link>
+      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
+      <guid isPermaLink="false">https://openai.com/index/combatting-adversarial-distillation</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can AI help scientists identify promising drug candidates?</title>
+      <link>https://openai.com/index/introducing-medchembench</link>
+      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench</guid>
+      <category>Research</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+      <link>https://openai.com/business/customer-stories/hebbia</link>
+      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</description>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/hebbia</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time awareness and async input for personal agents</title>
+      <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
+      <description>How to build agents that consider time constraints and keep working while waiting for user input</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
+      <category>Developer</category>
+      <category>API</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I stay in the flow with Ultrafast</title>
+      <link>https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</link>
+      <description>How I use Ultrafast in Codex to try small UI changes, give feedback, and stay in the zone, and where I’d try it in the API.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</guid>
+      <category>Developer</category>
+      <category>Codex</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
       <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
@@ -111,15 +151,6 @@
       <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.</description>
       <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
       <category>Research</category>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time awareness and async input for personal agents</title>
-      <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
-      <description>How to build agents that consider time constraints and keep working while waiting for user input</description>
-      <guid isPermaLink="false">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
-      <category>Developer</category>
-      <category>API</category>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
