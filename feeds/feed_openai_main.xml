@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:08:12 +0000</lastBuildDate>
+    <item>
+      <title>What makes a great ChatGPT app</title>
+      <link>https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</link>
+      <description>How to build capabilities that make conversations better.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</guid>
+      <category>Developer</category>
+      <category>Apps SDK</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI and Cisco introduce Shirudo</title>
+      <link>https://openai.com/index/introducing-shirudo</link>
+      <description>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-shirudo</guid>
+      <category>Security</category>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Connected intelligence for in-house legal</title>
+      <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+      <description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.</description>
+      <guid isPermaLink="false">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
+      <category>Webinars</category>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Richpanel helps companies automate 50% of support in 30 days</title>
+      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+      <description>Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.</description>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
+      <category>Startup</category>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Building security review into your SDLC with Codex Security</title>
+      <link>https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</link>
+      <description>Four principles for integrating security reviews into development with Codex Security and the CLI.</description>
+      <guid isPermaLink="false">https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</guid>
+      <category>Developer</category>
+      <category>Codex</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Perplexity and Intelligence</title>
       <link>https://openai.com/index/perplexity-and-intelligence</link>
@@ -5535,15 +5577,6 @@
       <description>Shopping research in ChatGPT helps you explore, compare, and discover products with personalized buyer’s guides that simplify decision-making</description>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-shopping-research</guid>
       <category>Product</category>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What makes a great ChatGPT app</title>
-      <link>https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</link>
-      <description>How to build capabilities that make conversations better.</description>
-      <guid isPermaLink="false">https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</guid>
-      <category>Developer</category>
-      <category>Apps SDK</category>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
